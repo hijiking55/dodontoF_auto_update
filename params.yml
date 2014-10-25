@@ -3,10 +3,10 @@
 ############### 接続情報 ###############
 
 # ホスト（IP・ホスト名）
-host: xxx.xxx.xxx.xxx
+host: 59.106.27.230
 
 # 使用プロトコル(ssh,ftp)
-proto: ssh
+proto: ftp
 
 
 ########################################
@@ -17,10 +17,10 @@ proto: ssh
 ######## SSH設定(proto="ssh"時) ########
 
 # SSHユーザー
-ssh_user: ssh_user
+ssh_user: 
 
 # SSHパスワード
-ssh_pass: ssh_password
+ssh_pass: 
 
 # sudo使用有無 有="1" 無="0"
 sudo_flg: 1
@@ -39,10 +39,10 @@ sudo_pass: sudo_password
 ######## FTP設定(proto="ftp"時) ########
 
 # FTPユーザ
-ftp_user: ftp_user
+ftp_user: hijiking
 
 # FTPパスワード
-ftp_pass: ftp_password
+ftp_pass: night1974
 
 
 ########################################
